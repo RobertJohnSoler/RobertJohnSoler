@@ -7,7 +7,7 @@
 
 
 - 🔭 I’m currently working on cybersecurity projects about malware analysis, WIFI hacking, and network security
-- 🌱 I’m currently learning **JavaScript, HTML, and CSS**
+- 🌱 I’m currently learning **AWS, JavaScript, HTML, and CSS**
 - 💬 Ask me about **Python, Java, C, C++ and Golang**
 - 📫 Reach me using my email **samokjuan@gmail.com** or my [LinkedIn](https://www.linkedin.com/in/robert-soler/)
 
