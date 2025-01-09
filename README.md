@@ -30,7 +30,7 @@
 <div style="display: flex; flex-direction: column; justify-content: center; align-items: center; gap: 0; padding: 0; margin: 0;">
 
   <div style="margin: 0; padding: 0; line-height: 0;">
-    <img width="500" height="230" src="https://github-readme-stats.vercel.app/api/top-langs?username=RobertJohnSoler&locale=en&layout=compact&hide_border=true&theme=github_dark_dimmed&hide=vhdl" alt="RobertJohnSoler's Top Languages" style="margin: 0; padding: 0;" />
+    <img width="500" height="230" src="https://github-readme-stats.vercel.app/api/top-langs?username=RobertJohnSoler&locale=en&layout=compact&hide_border=true&theme=github_dark_dimmed&hide=vhdl,html" alt="RobertJohnSoler's Top Languages" style="margin: 0; padding: 0;" />
   </div>
   
   <div style="margin: 0; padding: 0; line-height: 0;">
